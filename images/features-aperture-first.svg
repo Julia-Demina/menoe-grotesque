@@ -1,0 +1,16 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="186.569" height="124.065" viewBox="0 0 186.569 124.065" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Vector 7" filter="url(#filter0_g_0_4)">
+<path d="M6.50043 6.50043L12.6993 10.467M180.069 117.565L173.87 113.598M25.097 18.4002L37.4948 26.3334M49.8925 34.2665L62.2903 42.1997M74.688 50.1329L87.0857 58.0661M99.4835 65.9992L111.881 73.9324M124.279 81.8656L136.677 89.7988M149.074 97.7319L161.472 105.665" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" stroke="#B8261F"/>
+</g>
+<defs>
+<filter id="filter0_g_0_4" x="-2.38419e-07" y="-2.38419e-07" width="186.569" height="124.065" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.06535947322845459 0.06535947322845459" numOctaves="3" seed="1177" />
+<feDisplacementMap in="shape" scale="6" xChannelSelector="R" yChannelSelector="G" result="displacedImage" width="100%" height="100%" />
+<feMerge result="effect1_texture_0_4">
+<feMergeNode in="displacedImage"/>
+</feMerge>
+</filter>
+</defs>
+</svg>

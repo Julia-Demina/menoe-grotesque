@@ -1,0 +1,156 @@
+body {
+    font-family: "Menoe Grotesque", monospace;
+    color: black;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 199px;
+    line-height: 148px;
+}
+
+h2 {
+    font-size: 97px;
+    line-height: 72px;
+}
+
+h3 {
+    font-size: 62px;
+    line-height: 46px;
+}
+
+p {
+    font-size: 31px;
+    line-height: 36px;
+}
+
+h4 {
+    font-size: 23px;
+    line-height: 28px;
+}
+
+.feature-card h3 {
+    font-size: 31px;
+    line-height: normal;
+}
+
+.feature-number {
+    font-size: 62px;
+    line-height: normal;
+}
+
+.ruler {
+    font-size: 13px;
+    line-height: 15px;
+}
+
+.cover-title,
+.author-heading,
+.languages-heading {
+    text-align: center;
+    white-space: nowrap;
+}
+
+.language-card h3,
+.language-card p,
+.alternate-a span,
+.alternate-t span,
+.alternate-m span,
+.glyphs-heading {
+    text-align: center;
+}
+
+.language-letters,
+.footer-group,
+.footer-name,
+.footer-author-label,
+.footer-author-name {
+    white-space: nowrap;
+}
+
+.styles-card h3,
+.mono-card h3,
+.alternates-card h3,
+.digits-card h3 {
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.styles-regular,
+.styles-italic {
+    font-size: 45px;
+    line-height: 33px;
+    color: #b8261f;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.styles-italic {
+    font-style: italic;
+}
+
+.mono-word {
+    font-size: 85px;
+    line-height: 63px;
+    color: #fbf7eb;
+    white-space: nowrap;
+}
+
+.features-letter-c {
+    font-size: 489px;
+    line-height: 484px;
+}
+
+.features-aperture-caption {
+    line-height: 17px;
+    text-align: center;
+}
+
+.alternate-a,
+.alternate-t,
+.alternate-m {
+    font-size: 62px;
+    line-height: 46px;
+    white-space: nowrap;
+}
+
+.alternates-card .arrow {
+    font-family: Arial, sans-serif;
+    font-size: 51px;
+}
+
+.alternate-one {
+    font-feature-settings: "ss01" 1;
+}
+
+.alternate-two {
+    font-feature-settings: "ss02" 1;
+}
+
+.alternate-three {
+    font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1;
+}
+
+.digits-first,
+.digits-second {
+    font-size: 45px;
+    line-height: 33px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.digits-second {
+    font-feature-settings: "onum" 1, "pnum" 1;
+}
+
+.glyph {
+    font-size: 195px;
+    line-height: 193px;
+    white-space: nowrap;
+}
