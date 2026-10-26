@@ -2,10 +2,12 @@
   font-family: "Menoe Grotesque";
   src: url("../fonts/Menoe_Grotesque_Pro.otf") format("opentype");
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "Menoe Grotesque";
   src: url("../fonts/Menoe_Grotesque_Pro_Italic.otf") format("opentype");
   font-style: italic;
+  font-display: swap;
 }
